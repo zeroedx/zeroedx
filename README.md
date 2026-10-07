@@ -18,7 +18,7 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ReXinRou&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub stats" />
 </p>
 
-## About Me
+##Me
 
 你好，我是 **心柔**，欢迎来到我的 GitHub 主页。
 
