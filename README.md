@@ -18,13 +18,13 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ReXinRou&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub stats" />
 </p>
 
-##Me
+## Me
 
 你好，我是 **心柔**，欢迎来到我的 GitHub 主页。
 
 我喜欢探索新技术、学习开源项目，并通过实际项目不断积累经验。希望把有趣的想法做成实用、稳定且易于维护的作品。
 
-## Tech Stack
+## 技术栈
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
