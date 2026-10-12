@@ -1,0 +1,31 @@
+name: GitHub 三维贡献图
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: 生成三维贡献图
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 生成个人三维贡献图
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: 提交并推送三维贡献图
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A profile-3d-contrib
+          if git commit -m "更新三维贡献图"; then
+            git push
+          fi
