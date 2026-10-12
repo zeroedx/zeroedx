@@ -1,8 +1,5 @@
 # zeroedx
 
-你好，这里是 **zeroedx**。
-
-## 三维贡献图
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-season-animate.svg" alt="zeroedx 的 GitHub 三维贡献图" />
