@@ -4,7 +4,6 @@
   <img src="./profile-3d-contrib/profile-season-animate.svg" alt="zeroedx 的 GitHub 三维贡献图" />
 </p>
 
-## 访问次数
 
 ![](https://count.getloli.com/get/@zeroedx?theme=gelbooru)
 
@@ -16,7 +15,6 @@
   <a href="https://github.com/zeroedx">
     <img 
 
-## 统计数据
 
 <table align="center">
   <tr>
