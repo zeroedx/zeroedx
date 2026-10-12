@@ -1,6 +1,4 @@
 # zeroedx
-src="https://img.shields.io/badge/GitHub-zeroedx-181717?style=flat&logo=github" alt="GitHub" />
-
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-season-animate.svg" alt="zeroedx 的 GitHub 三维贡献图" />
