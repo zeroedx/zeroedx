@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://count.getloli.com/get/@zeroedx.github.readme?theme=minecraft" alt="Profile counter" height="160" />
-</p>
+## 访问次数
+
+![](https://count.getloli.com/get/@zeroedx?theme=gelbooru)
 
 
 
