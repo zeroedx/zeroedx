@@ -2,8 +2,6 @@
 
 ![](https://count.getloli.com/get/@zeroedx?theme=gelbooru)
 
-
-
 <p align="center">
   Open Source · Technology · Exploration
 </p>
@@ -14,6 +12,15 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=zeroedx&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub stats" />
-</p>
+## 统计数据
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./profile/stats.svg" alt="zeroedx GitHub 统计数据" />
+    </td>
+    <td align="center">
+      <img src="./profile/top-langs.svg" alt="zeroedx 最常用语言" />
+    </td>
+  </tr>
+</table>
