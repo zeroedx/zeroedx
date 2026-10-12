@@ -1,7 +1,5 @@
 # zeroedx
 src="https://img.shields.io/badge/GitHub-zeroedx-181717?style=flat&logo=github" alt="GitHub" />
-  </a>
-</p>
 
 
 <p align="center">
