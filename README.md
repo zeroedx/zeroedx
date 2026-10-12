@@ -9,20 +9,3 @@
 
 <p align="center">
   Open Source · Technology · Exploration
-</p>
-
-<p align="center">
-  <a href="https://github.com/zeroedx">
-    <img 
-
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="./profile/stats.svg" alt="zeroedx GitHub 统计数据" />
-    </td>
-    <td align="center">
-      <img src="./profile/top-langs.svg" alt="zeroedx 最常用语言" />
-    </td>
-  </tr>
-</table>
